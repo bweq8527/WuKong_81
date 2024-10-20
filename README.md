@@ -13,3 +13,23 @@
 ## 2.准备工作
 
 ①成就图标：[黑神话悟空全成就图标自取 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv37545978/?jump_opus=1)
+
+②透光浮雕生成：[Color Lithophane Maker](https://lithophanemaker.com/Color Lithophane.html?fbclid=IwAR0zbiYVOGT2kV0MY4LtLbNk5rrg_wOd_bEsA2kpnxebZCTbBNzPyFu8h7g.#processing)
+
+## 3.实验
+
+ 以最复杂的“第34难”成就为例，设置打印线宽为0.1mm，100%填充，效果如下：
+
+（由于拍摄设备分辨率较低导致效果图模糊，实际肉眼所见效果很好）
+
+> 原图：
+>
+> ![](Pics\0.jpg)
+>
+> 背光：
+>
+> ![](Pics\1.jpg)
+>
+> 透光：
+>
+> ![](Pics\2.jpg)
