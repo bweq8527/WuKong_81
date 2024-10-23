@@ -39,3 +39,7 @@
 ![](Pics\3.jpg)
 
 ![](Pics\4.jpg)
+
+## 4.八十一难摆盘
+
+由于Github对100MB以上大文件的上传限制，打印配置文件单独存储至云端：[模型文件见此链接]( https://pan.baidu.com/s/15vvviHefxmRDrBU4KXjpYw?pwd=wk81)
